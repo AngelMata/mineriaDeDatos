@@ -3,4 +3,5 @@
 
 * [Act2](https://github.com/AngelMata/mineriaDeDatos/blob/master/act2.ipynb) - Visualizacion de los datos.
 
+* [ProyectoZoo](https://github.com/AngelMata/mineriaDeDatos/blob/master/proyectoZoo.ipynb) - Proyecto caliz.
 
