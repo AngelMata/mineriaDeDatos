@@ -5,7 +5,7 @@
 
 * [Act2 Parte 2](https://github.com/AngelMata/mineriaDeDatos/blob/master/act2Parte2.ipynb) - Análisis de texto con nltk y wordcloud.
 
-* [ProyectoZoo](https://github.com/AngelMata/mineriaDeDatos/blob/master/proyectoZoo.ipynb)
+* [ProyectoZoo](https://github.com/AngelMata/mineriaDeDatos/blob/master/proyectoZoo.ipynb) - Proyecto.
 
-* [PosterZoo](https://github.com/AngelMata/mineriaDeDatos/blob/master/poster.jpeg)
+* [PosterZoo](https://github.com/AngelMata/mineriaDeDatos/blob/master/poster.jpeg) - Poster.
 
